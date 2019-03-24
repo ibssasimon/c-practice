@@ -1,2 +1,7 @@
+## Simon Ibssa, Cal Poly SLO 2021
 # c-practice
-C practice for CPE 357
+
+Hey there! This is some practice C code I wrote before taking CPE 357 (systems programming) at Cal Poly. 
+
+
+
