@@ -3,5 +3,5 @@
 
 Hey there! This is some practice C code I wrote before taking CPE 357 (systems programming) at Cal Poly. 
 
-
+Update: I added some directories for the chapters
 
