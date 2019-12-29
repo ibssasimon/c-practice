@@ -19,4 +19,5 @@ int main() {
   }
   printf("Blanks: %d \nTabs: %d \nNewlines: %d\n", blank, tab, newline);
   return 0;
+  /* github comment*/
 }
