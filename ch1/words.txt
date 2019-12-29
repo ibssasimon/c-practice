@@ -1,0 +1,5 @@
+Hello my name is Simon, and this is a test to see if I can code in C.
+We shall see!
+This is a third line
+This is a fourth line
+It turns out I can feed input into these programs! 
